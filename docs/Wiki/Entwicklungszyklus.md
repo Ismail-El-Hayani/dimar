@@ -5,9 +5,9 @@
 - [x] GitHub-Repository anlegen
 - [x] README.md mit Projektbeschreibung erstellen
 - [x] Wiki-Startseite (Idee & Zielstellung) schreiben
-- [ ] Repository auf GitHub veröffentlichen
-- [ ] Betreuer (Prof. Zug, Herr Göhler) als Collaborator einladen
-- [ ] Entwicklungszyklus-Dokumentation im Wiki ergänzen
+- [x] Repository auf GitHub veröffentlicht
+- [x] Betreuer (Prof. Zug, Herr Göhler) als Collaborator einladen
+- [x] Entwicklungszyklus-Dokumentation im Wiki ergänzen
 
 ## Phase 2: Spezifikation & Entwurf (bis 6. Juli 2026)
 
